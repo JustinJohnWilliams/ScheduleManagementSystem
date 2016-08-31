@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="466c2b1d-bf99-4e2a-b4fd-609ad6c0f723" name="Justin Williams@JUSTIN-DT 2009-12-01 02:11:25" runUser="JUSTIN-DT\Justin Williams" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2006">
+  <TestRunConfiguration name="Local Test Run" id="34513c49-8a33-47eb-8c0f-842752c8c8de">
+    <Description>This is a default test run configuration for a local test run.</Description>
+    <Deployment runDeploymentRoot="C:\Documents and Settings\Justin Williams\Desktop\School\UTD\7Fall 09\Requirements\ScheduleManagementSystemFinalRevAv\ScheduleManagementSystemRev7\TestResults\Justin Williams_JUSTIN-DT 2009-12-01 02_11_25">
+      <DeploymentItem filename="C:\Documents and Settings\Justin Williams\Desktop\School\UTD\7Fall 09\Requirements\ScheduleManagementSystemFinalRevAv\ScheduleManagementSystemRev7\ScheduleManagementSystem.Contract\bin\Debug\ScheduleManagementSystem.Contract.dll" />
+      <DeploymentItem filename="C:\Documents and Settings\Justin Williams\Desktop\School\UTD\7Fall 09\Requirements\ScheduleManagementSystemFinalRevAv\ScheduleManagementSystemRev7\ScheduleManagementSystem.Dal\bin\Debug\ScheduleManagementSystem.Dal.dll" />
+    </Deployment>
+    <TestTypeSpecific />
+  </TestRunConfiguration>
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <Times creation="2009-12-01T02:11:25.7968750-06:00" queuing="2009-12-01T02:11:30.8281250-06:00" start="2009-12-01T02:11:32.4531250-06:00" finish="2009-12-01T02:12:20.8906250-06:00" />
+  <TestDefinitions>
+    <UnitTest name="should_return_all_users" storage="c:\documents and settings\justin williams\desktop\school\utd\7fall 09\requirements\schedulemanagementsystemfinalrevav\schedulemanagementsystemrev7\schedulemanagementsystem.test\bin\debug\schedulemanagementsystem.test.dll" id="07a85d88-731d-43dc-8bbe-cb33eda1b6bf">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="92d8aecd-f153-4fea-9db0-5bc9cc687305" />
+      <TestMethod codeBase="C:\Documents and Settings\Justin Williams\Desktop\School\UTD\7Fall 09\Requirements\ScheduleManagementSystemFinalRevAv\ScheduleManagementSystemRev7\ScheduleManagementSystem.Test\bin\Debug\ScheduleManagementSystem.Test.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ScheduleManagementSystem.Test.Dal.when_retrieving_users, ScheduleManagementSystem.Test" name="should_return_all_users" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="07a85d88-731d-43dc-8bbe-cb33eda1b6bf" executionId="92d8aecd-f153-4fea-9db0-5bc9cc687305" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="92d8aecd-f153-4fea-9db0-5bc9cc687305" testId="07a85d88-731d-43dc-8bbe-cb33eda1b6bf" testName="should_return_all_users" computerName="JUSTIN-DT" duration="00:00:44.1242090" startTime="2009-12-01T02:11:33.1562500-06:00" endTime="2009-12-01T02:12:19.9062500-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Initialization method ScheduleManagementSystem.Test.Dal.when_retrieving_users.TestInitialize threw exception. System.Exception:  System.Exception: Can't perform Create, Update or Delete operations on 'Table(UserDto)' because it has no primary key. ---&gt;  System.InvalidOperationException: Can't perform Create, Update or Delete operations on 'Table(UserDto)' because it has no primary key..</Message>
+          <StackTrace>    at System.Data.Linq.Table`1.CheckReadOnly()
+   at System.Data.Linq.Table`1.DeleteAllOnSubmit[TSubEntity](IEnumerable`1 entities)
+   at ScheduleManagementSystem.Test.Dal.when_retrieving_users.Cleanup() in C:\Documents and Settings\Justin Williams\Desktop\School\UTD\7Fall 09\Requirements\ScheduleManagementSystemFinalRevAv\ScheduleManagementSystemRev7\ScheduleManagementSystem.Test\Dal\when_retrieving_users.cs:line 78
+   at ScheduleManagementSystem.Test.TestContextSpecification.TestInitialize() in C:\Documents and Settings\Justin Williams\Desktop\School\UTD\7Fall 09\Requirements\ScheduleManagementSystemFinalRevAv\ScheduleManagementSystemRev7\ScheduleManagementSystem.Test\TestContextSpecification.cs:line 36
+ --- End of inner exception stack trace ---
+    at ScheduleManagementSystem.Test.TestContextSpecification.TestInitialize() in C:\Documents and Settings\Justin Williams\Desktop\School\UTD\7Fall 09\Requirements\ScheduleManagementSystemFinalRevAv\ScheduleManagementSystemRev7\ScheduleManagementSystem.Test\TestContextSpecification.cs:line 41
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

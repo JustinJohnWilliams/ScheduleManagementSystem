@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{AE9E354A-BE44-4CEA-8F6C-D1BC7F1FB6D4}"
+	ProjectSection(SolutionItems) = preProject
+		LocalTestRun.testrunconfig = LocalTestRun.testrunconfig
+		ScheduleManagementSystem.vsmdi = ScheduleManagementSystem.vsmdi
+		ScheduleManagementSystem1.vsmdi = ScheduleManagementSystem1.vsmdi
+		ScheduleManagementSystem2.vsmdi = ScheduleManagementSystem2.vsmdi
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScheduleManagementSystem.View", "ScheduleManagementSystem\ScheduleManagementSystem.View.csproj", "{AA94B265-098D-41BA-8FC7-681D27FCF763}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScheduleManagementSystem.Contract", "ScheduleManagementSystem.Contract\ScheduleManagementSystem.Contract.csproj", "{306A14F3-8C82-4A32-871E-005004A96AE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScheduleManagementSystem.Dal", "ScheduleManagementSystem.Dal\ScheduleManagementSystem.Dal.csproj", "{DDAE59BF-E46C-4D41-980E-30D784B131DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScheduleManagementSystem.Model", "ScheduleManagementSystem.Model\ScheduleManagementSystem.Model.csproj", "{4840E515-49DD-40B6-B3CA-42DAFBF567D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScheduleManagementSystem.Control", "ScheduleManagementSystem.Control\ScheduleManagementSystem.Control.csproj", "{0AB21D1F-BA7B-4259-A7FC-5BAE8A4D4D02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScheduleManagementSystem.Test", "ScheduleManagementSystem.Test\ScheduleManagementSystem.Test.csproj", "{5211F3D9-3DA4-4382-8683-27AB58BCB289}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA94B265-098D-41BA-8FC7-681D27FCF763}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA94B265-098D-41BA-8FC7-681D27FCF763}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA94B265-098D-41BA-8FC7-681D27FCF763}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA94B265-098D-41BA-8FC7-681D27FCF763}.Release|Any CPU.Build.0 = Release|Any CPU
+		{306A14F3-8C82-4A32-871E-005004A96AE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{306A14F3-8C82-4A32-871E-005004A96AE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{306A14F3-8C82-4A32-871E-005004A96AE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{306A14F3-8C82-4A32-871E-005004A96AE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDAE59BF-E46C-4D41-980E-30D784B131DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDAE59BF-E46C-4D41-980E-30D784B131DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDAE59BF-E46C-4D41-980E-30D784B131DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDAE59BF-E46C-4D41-980E-30D784B131DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4840E515-49DD-40B6-B3CA-42DAFBF567D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4840E515-49DD-40B6-B3CA-42DAFBF567D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4840E515-49DD-40B6-B3CA-42DAFBF567D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4840E515-49DD-40B6-B3CA-42DAFBF567D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AB21D1F-BA7B-4259-A7FC-5BAE8A4D4D02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AB21D1F-BA7B-4259-A7FC-5BAE8A4D4D02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AB21D1F-BA7B-4259-A7FC-5BAE8A4D4D02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AB21D1F-BA7B-4259-A7FC-5BAE8A4D4D02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5211F3D9-3DA4-4382-8683-27AB58BCB289}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5211F3D9-3DA4-4382-8683-27AB58BCB289}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5211F3D9-3DA4-4382-8683-27AB58BCB289}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5211F3D9-3DA4-4382-8683-27AB58BCB289}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = ScheduleManagementSystem2.vsmdi
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="486b53fc-b74a-42be-a409-edebd3bb5358" name="Justin Williams@JUSTIN-DT 2009-12-01 02:09:47" runUser="JUSTIN-DT\Justin Williams" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2006">
+  <TestRunConfiguration name="Local Test Run" id="34513c49-8a33-47eb-8c0f-842752c8c8de">
+    <Description>This is a default test run configuration for a local test run.</Description>
+    <Deployment userDeploymentRoot="C:\Documents and Settings\Justin Williams\Desktop\School\UTD\7Fall 09\Requirements\ScheduleManagementSystemFinalRevAv\ScheduleManagementSystemRev7\TestResults" useDefaultDeploymentRoot="false" runDeploymentRoot="C:\Documents and Settings\Justin Williams\Desktop\School\UTD\7Fall 09\Requirements\ScheduleManagementSystemFinalRevAv\ScheduleManagementSystemRev7\TestResults\Justin Williams_JUSTIN-DT 2009-12-01 02_09_47">
+      <DeploymentItem filename="C:\Documents and Settings\Justin Williams\Desktop\School\UTD\7Fall 09\Requirements\ScheduleManagementSystemFinalRevAv\ScheduleManagementSystemRev7\ScheduleManagementSystem.Contract\bin\Debug\ScheduleManagementSystem.Contract.dll" />
+      <DeploymentItem filename="C:\Documents and Settings\Justin Williams\Desktop\School\UTD\7Fall 09\Requirements\ScheduleManagementSystemFinalRevAv\ScheduleManagementSystemRev7\ScheduleManagementSystem.Dal\bin\Debug\ScheduleManagementSystem.Dal.dll" />
+    </Deployment>
+    <TestTypeSpecific />
+  </TestRunConfiguration>
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <Times creation="2009-12-01T02:09:47.6718750-06:00" queuing="2009-12-01T02:09:52.7343750-06:00" start="2009-12-01T02:09:54.1562500-06:00" finish="2009-12-01T02:10:10.5468750-06:00" />
+  <TestDefinitions>
+    <UnitTest name="should_return_all_users" storage="c:\documents and settings\justin williams\desktop\school\utd\7fall 09\requirements\schedulemanagementsystemfinalrevav\schedulemanagementsystemrev7\schedulemanagementsystem.test\bin\debug\schedulemanagementsystem.test.dll" id="07a85d88-731d-43dc-8bbe-cb33eda1b6bf">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="f019812a-3866-404d-8e9b-6509b0dde998" />
+      <TestMethod codeBase="C:\Documents and Settings\Justin Williams\Desktop\School\UTD\7Fall 09\Requirements\ScheduleManagementSystemFinalRevAv\ScheduleManagementSystemRev7\ScheduleManagementSystem.Test\bin\Debug\ScheduleManagementSystem.Test.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ScheduleManagementSystem.Test.Dal.when_retrieving_users, ScheduleManagementSystem.Test" name="should_return_all_users" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="07a85d88-731d-43dc-8bbe-cb33eda1b6bf" executionId="f019812a-3866-404d-8e9b-6509b0dde998" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="f019812a-3866-404d-8e9b-6509b0dde998" testId="07a85d88-731d-43dc-8bbe-cb33eda1b6bf" testName="should_return_all_users" computerName="JUSTIN-DT" duration="00:00:12.3061241" startTime="2009-12-01T02:09:54.7187500-06:00" endTime="2009-12-01T02:10:09.5625000-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <Exception>Exception has been thrown by the target of an invocation.</Exception>
+        <ErrorInfo>
+          <Message>Unable to create instance of class ScheduleManagementSystem.Test.Dal.when_retrieving_users. Error:  System.NullReferenceException: Object reference not set to an instance of an object..</Message>
+          <StackTrace>    at ScheduleManagementSystem.Test.Dal.DalTestContextSpecification..ctor() in C:\Documents and Settings\Justin Williams\Desktop\School\UTD\7Fall 09\Requirements\ScheduleManagementSystemFinalRevAv\ScheduleManagementSystemRev7\ScheduleManagementSystem.Test\Dal\DalTestContextSpecification.cs:line 21
+   at ScheduleManagementSystem.Test.Dal.when_retrieving_users..ctor() in C:\Documents and Settings\Justin Williams\Desktop\School\UTD\7Fall 09\Requirements\ScheduleManagementSystemFinalRevAv\ScheduleManagementSystemRev7\ScheduleManagementSystem.Test\Dal\when_retrieving_users.cs:line 18
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

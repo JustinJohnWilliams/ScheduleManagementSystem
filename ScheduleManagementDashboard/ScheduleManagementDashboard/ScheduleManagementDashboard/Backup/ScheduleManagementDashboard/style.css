@@ -1,0 +1,52 @@
+﻿body
+{
+	width:100%;
+	margin:0px;
+	padding:0px;
+	font-family:Verdana;
+}
+a { color:Black; text-decoration:none; }
+
+#header 
+{
+	width:100%;
+	background-color:#203267;
+	margin:0px;
+}
+
+#content 
+{
+	width:800px;
+	padding-bottom:80px;
+	margin:auto;
+}	
+#content #contentHead { overflow:auto;  }
+#content #contentHead ul#menuList { list-style: none; margin:0px; padding:0px; }
+#menuList li  
+{
+	float:left; margin-right:4px; font-size:14px; 
+	background-color:#203267; padding:5px 9px; text-align: center;
+	font-weight:bold; font-family: Georgia; border-bottom:1px solid #203267; 
+                     border-left:1px solid #203267; border-right:1px solid #203267;
+}
+#menuList li a { color:White; }
+#menuList li:hover { background-color:#A8B6DB;}
+#menuList li:hover a { color:#203267; }
+
+#content #contentReal { padding-top:0px; }
+.btnInput { border:1px solid #CBB9B9; color:Black; background-color:#DBDBDB; padding:2px; }
+.btnInput:hover { border:1px solid black; }
+.txtBox { border:1px solid #CBB9B9; }
+.logo  
+{
+	display:block; font-size:45px; font-family:Georgia; 
+	color:white; font-weight:bold; margin-top:30px; margin-bottom:30px;
+}
+.logo .dash { font-size:30px; font-family:Georgia; 
+	color:white;
+}
+#header .logo { width:900px; margin:auto; }
+
+#meetingResults { float:left; margin:10px;}
+#locationResults { float:left; margin:10px;}
+

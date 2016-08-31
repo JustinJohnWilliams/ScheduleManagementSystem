@@ -1,0 +1,70 @@
+C:\Documents and Settings\Justin Williams\Desktop\ScheduleManagementSystem\ScheduleManagementSystem\ScheduleManagementSystem.Dal\bin\Debug\ScheduleManagementSystem.Dal.dll
+C:\Documents and Settings\Justin Williams\Desktop\ScheduleManagementSystem\ScheduleManagementSystem\ScheduleManagementSystem.Dal\bin\Debug\ScheduleManagementSystem.Dal.pdb
+C:\Documents and Settings\Justin Williams\Desktop\ScheduleManagementSystem\ScheduleManagementSystem\ScheduleManagementSystem.Dal\bin\Debug\ScheduleManagementSystem.Contract.dll
+C:\Documents and Settings\Justin Williams\Desktop\ScheduleManagementSystem\ScheduleManagementSystem\ScheduleManagementSystem.Dal\bin\Debug\ScheduleManagementSystem.Contract.pdb
+C:\Documents and Settings\Justin Williams\Desktop\ScheduleManagementSystem\ScheduleManagementSystem\ScheduleManagementSystem.Dal\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Justin Williams\Desktop\ScheduleManagementSystem\ScheduleManagementSystem\ScheduleManagementSystem.Dal\obj\Debug\ScheduleManagementSystem.Dal.dll
+C:\Documents and Settings\Justin Williams\Desktop\ScheduleManagementSystem\ScheduleManagementSystem\ScheduleManagementSystem.Dal\obj\Debug\ScheduleManagementSystem.Dal.pdb
+C:\Documents and Settings\rcompere\My Documents\ScheduleManagementSystemRev3\ScheduleManagementSystem\ScheduleManagementSystem.Dal\bin\Debug\ScheduleManagementSystem.Dal.dll
+C:\Documents and Settings\rcompere\My Documents\ScheduleManagementSystemRev3\ScheduleManagementSystem\ScheduleManagementSystem.Dal\bin\Debug\ScheduleManagementSystem.Dal.pdb
+C:\Documents and Settings\rcompere\My Documents\ScheduleManagementSystemRev3\ScheduleManagementSystem\ScheduleManagementSystem.Dal\bin\Debug\ScheduleManagementSystem.Contract.dll
+C:\Documents and Settings\rcompere\My Documents\ScheduleManagementSystemRev3\ScheduleManagementSystem\ScheduleManagementSystem.Dal\bin\Debug\ScheduleManagementSystem.Contract.pdb
+C:\Documents and Settings\rcompere\My Documents\ScheduleManagementSystemRev3\ScheduleManagementSystem\ScheduleManagementSystem.Dal\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\rcompere\My Documents\ScheduleManagementSystemRev3\ScheduleManagementSystem\ScheduleManagementSystem.Dal\obj\Debug\ScheduleManagementSystem.Dal.dll
+C:\Documents and Settings\rcompere\My Documents\ScheduleManagementSystemRev3\ScheduleManagementSystem\ScheduleManagementSystem.Dal\obj\Debug\ScheduleManagementSystem.Dal.pdb
+D:\School\Fall 2009\(Requirements Eng)\ScheduleManagementSystem\ScheduleManagementSystem.Dal\bin\Debug\ScheduleManagementSystem.Dal.dll
+D:\School\Fall 2009\(Requirements Eng)\ScheduleManagementSystem\ScheduleManagementSystem.Dal\bin\Debug\ScheduleManagementSystem.Dal.pdb
+D:\School\Fall 2009\(Requirements Eng)\ScheduleManagementSystem\ScheduleManagementSystem.Dal\bin\Debug\ScheduleManagementSystem.Contract.dll
+D:\School\Fall 2009\(Requirements Eng)\ScheduleManagementSystem\ScheduleManagementSystem.Dal\bin\Debug\ScheduleManagementSystem.Contract.pdb
+D:\School\Fall 2009\(Requirements Eng)\ScheduleManagementSystem\ScheduleManagementSystem.Dal\obj\Debug\ResolveAssemblyReference.cache
+D:\School\Fall 2009\(Requirements Eng)\ScheduleManagementSystem\ScheduleManagementSystem.Dal\obj\Debug\ScheduleManagementSystem.Dal.dll
+D:\School\Fall 2009\(Requirements Eng)\ScheduleManagementSystem\ScheduleManagementSystem.Dal\obj\Debug\ScheduleManagementSystem.Dal.pdb
+C:\Documents and Settings\Justin Williams\Desktop\School\UTD\7Fall 09\Requirements\ScheduleManagementSystem\ScheduleManagementSystem\ScheduleManagementSystem.Dal\bin\Debug\ScheduleManagementSystem.Dal.dll
+C:\Documents and Settings\Justin Williams\Desktop\School\UTD\7Fall 09\Requirements\ScheduleManagementSystem\ScheduleManagementSystem\ScheduleManagementSystem.Dal\bin\Debug\ScheduleManagementSystem.Dal.pdb
+C:\Documents and Settings\Justin Williams\Desktop\School\UTD\7Fall 09\Requirements\ScheduleManagementSystem\ScheduleManagementSystem\ScheduleManagementSystem.Dal\bin\Debug\ScheduleManagementSystem.Contract.dll
+C:\Documents and Settings\Justin Williams\Desktop\School\UTD\7Fall 09\Requirements\ScheduleManagementSystem\ScheduleManagementSystem\ScheduleManagementSystem.Dal\bin\Debug\ScheduleManagementSystem.Contract.pdb
+C:\Documents and Settings\Justin Williams\Desktop\School\UTD\7Fall 09\Requirements\ScheduleManagementSystem\ScheduleManagementSystem\ScheduleManagementSystem.Dal\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Justin Williams\Desktop\School\UTD\7Fall 09\Requirements\ScheduleManagementSystem\ScheduleManagementSystem\ScheduleManagementSystem.Dal\obj\Debug\ScheduleManagementSystem.Dal.dll
+C:\Documents and Settings\Justin Williams\Desktop\School\UTD\7Fall 09\Requirements\ScheduleManagementSystem\ScheduleManagementSystem\ScheduleManagementSystem.Dal\obj\Debug\ScheduleManagementSystem.Dal.pdb
+C:\Users\Ryan\Desktop\Justin\ScheduleManagementSystem\ScheduleManagementSystem\ScheduleManagementSystem\ScheduleManagementSystem.Dal\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ryan\Desktop\Justin\ScheduleManagementSystem\ScheduleManagementSystem\ScheduleManagementSystem\ScheduleManagementSystem.Dal\obj\Debug\ScheduleManagementSystem.Dal.dll
+C:\Users\Ryan\Desktop\Justin\ScheduleManagementSystem\ScheduleManagementSystem\ScheduleManagementSystem\ScheduleManagementSystem.Dal\obj\Debug\ScheduleManagementSystem.Dal.pdb
+C:\Users\Ryan\Desktop\Justin\ScheduleManagementSystem\ScheduleManagementSystem\ScheduleManagementSystem\ScheduleManagementSystem.Dal\bin\Debug\ScheduleManagementSystem.Dal.dll
+C:\Users\Ryan\Desktop\Justin\ScheduleManagementSystem\ScheduleManagementSystem\ScheduleManagementSystem\ScheduleManagementSystem.Dal\bin\Debug\ScheduleManagementSystem.Dal.pdb
+C:\Users\Ryan\Desktop\Justin\ScheduleManagementSystem\ScheduleManagementSystem\ScheduleManagementSystem\ScheduleManagementSystem.Dal\bin\Debug\ScheduleManagementSystem.Contract.dll
+C:\Users\Ryan\Desktop\Justin\ScheduleManagementSystem\ScheduleManagementSystem\ScheduleManagementSystem\ScheduleManagementSystem.Dal\bin\Debug\ScheduleManagementSystem.Contract.pdb
+C:\Users\Ryan Plauche\Desktop\Justin\ScheduleManagementSystem\ScheduleManagementSystem.Dal\bin\Debug\ScheduleManagementSystem.Dal.dll
+C:\Users\Ryan Plauche\Desktop\Justin\ScheduleManagementSystem\ScheduleManagementSystem.Dal\bin\Debug\ScheduleManagementSystem.Dal.pdb
+C:\Users\Ryan Plauche\Desktop\Justin\ScheduleManagementSystem\ScheduleManagementSystem.Dal\bin\Debug\ScheduleManagementSystem.Contract.dll
+C:\Users\Ryan Plauche\Desktop\Justin\ScheduleManagementSystem\ScheduleManagementSystem.Dal\bin\Debug\ScheduleManagementSystem.Contract.pdb
+C:\Users\Ryan Plauche\Desktop\Justin\ScheduleManagementSystem\ScheduleManagementSystem.Dal\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ryan Plauche\Desktop\Justin\ScheduleManagementSystem\ScheduleManagementSystem.Dal\obj\Debug\ScheduleManagementSystem.Dal.dll
+C:\Users\Ryan Plauche\Desktop\Justin\ScheduleManagementSystem\ScheduleManagementSystem.Dal\obj\Debug\ScheduleManagementSystem.Dal.pdb
+C:\Users\Ryan\Desktop\Justin\ScheduleManagementSystemRev7\ScheduleManagementSystem.Dal\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ryan\Desktop\Justin\ScheduleManagementSystemRev7\ScheduleManagementSystem.Dal\obj\Debug\ScheduleManagementSystem.Dal.dll
+C:\Users\Ryan\Desktop\Justin\ScheduleManagementSystemRev7\ScheduleManagementSystem.Dal\obj\Debug\ScheduleManagementSystem.Dal.pdb
+C:\Users\Ryan\Desktop\Justin\ScheduleManagementSystemRev7\ScheduleManagementSystem.Dal\bin\Debug\ScheduleManagementSystem.Dal.dll
+C:\Users\Ryan\Desktop\Justin\ScheduleManagementSystemRev7\ScheduleManagementSystem.Dal\bin\Debug\ScheduleManagementSystem.Dal.pdb
+C:\Users\Ryan\Desktop\Justin\ScheduleManagementSystemRev7\ScheduleManagementSystem.Dal\bin\Debug\ScheduleManagementSystem.Contract.dll
+C:\Users\Ryan\Desktop\Justin\ScheduleManagementSystemRev7\ScheduleManagementSystem.Dal\bin\Debug\ScheduleManagementSystem.Contract.pdb
+C:\Documents and Settings\Justin Williams\Desktop\School\UTD\7Fall 09\Requirements\ScheduleManagementSystemFinalRevAv\ScheduleManagementSystemRev7\ScheduleManagementSystem.Dal\bin\Debug\ScheduleManagementSystem.Dal.dll
+C:\Documents and Settings\Justin Williams\Desktop\School\UTD\7Fall 09\Requirements\ScheduleManagementSystemFinalRevAv\ScheduleManagementSystemRev7\ScheduleManagementSystem.Dal\bin\Debug\ScheduleManagementSystem.Dal.pdb
+C:\Documents and Settings\Justin Williams\Desktop\School\UTD\7Fall 09\Requirements\ScheduleManagementSystemFinalRevAv\ScheduleManagementSystemRev7\ScheduleManagementSystem.Dal\bin\Debug\ScheduleManagementSystem.Contract.dll
+C:\Documents and Settings\Justin Williams\Desktop\School\UTD\7Fall 09\Requirements\ScheduleManagementSystemFinalRevAv\ScheduleManagementSystemRev7\ScheduleManagementSystem.Dal\bin\Debug\ScheduleManagementSystem.Contract.pdb
+C:\Documents and Settings\Justin Williams\Desktop\School\UTD\7Fall 09\Requirements\ScheduleManagementSystemFinalRevAv\ScheduleManagementSystemRev7\ScheduleManagementSystem.Dal\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Justin Williams\Desktop\School\UTD\7Fall 09\Requirements\ScheduleManagementSystemFinalRevAv\ScheduleManagementSystemRev7\ScheduleManagementSystem.Dal\obj\Debug\ScheduleManagementSystem.Dal.dll
+C:\Documents and Settings\Justin Williams\Desktop\School\UTD\7Fall 09\Requirements\ScheduleManagementSystemFinalRevAv\ScheduleManagementSystemRev7\ScheduleManagementSystem.Dal\obj\Debug\ScheduleManagementSystem.Dal.pdb
+C:\Users\Ryan\Desktop\Justin\ScheduleManagementSystemFinalRevAvWithUnitTests\ScheduleManagementSystemFinalRevAv\ScheduleManagementSystemRev7\ScheduleManagementSystem.Dal\bin\Debug\ScheduleManagementSystem.Dal.dll
+C:\Users\Ryan\Desktop\Justin\ScheduleManagementSystemFinalRevAvWithUnitTests\ScheduleManagementSystemFinalRevAv\ScheduleManagementSystemRev7\ScheduleManagementSystem.Dal\bin\Debug\ScheduleManagementSystem.Dal.pdb
+C:\Users\Ryan\Desktop\Justin\ScheduleManagementSystemFinalRevAvWithUnitTests\ScheduleManagementSystemFinalRevAv\ScheduleManagementSystemRev7\ScheduleManagementSystem.Dal\bin\Debug\ScheduleManagementSystem.Contract.dll
+C:\Users\Ryan\Desktop\Justin\ScheduleManagementSystemFinalRevAvWithUnitTests\ScheduleManagementSystemFinalRevAv\ScheduleManagementSystemRev7\ScheduleManagementSystem.Dal\bin\Debug\ScheduleManagementSystem.Contract.pdb
+C:\Users\Ryan\Desktop\Justin\ScheduleManagementSystemFinalRevAvWithUnitTests\ScheduleManagementSystemFinalRevAv\ScheduleManagementSystemRev7\ScheduleManagementSystem.Dal\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ryan\Desktop\Justin\ScheduleManagementSystemFinalRevAvWithUnitTests\ScheduleManagementSystemFinalRevAv\ScheduleManagementSystemRev7\ScheduleManagementSystem.Dal\obj\Debug\ScheduleManagementSystem.Dal.dll
+C:\Users\Ryan\Desktop\Justin\ScheduleManagementSystemFinalRevAvWithUnitTests\ScheduleManagementSystemFinalRevAv\ScheduleManagementSystemRev7\ScheduleManagementSystem.Dal\obj\Debug\ScheduleManagementSystem.Dal.pdb
+C:\Users\justinw\Downloads\FinalCode\ScheduleManagementSystemFinalRevAvWithUnitTests\ScheduleManagementSystemFinalRevAv\ScheduleManagementSystemRev7\ScheduleManagementSystem.Dal\bin\Debug\ScheduleManagementSystem.Dal.dll
+C:\Users\justinw\Downloads\FinalCode\ScheduleManagementSystemFinalRevAvWithUnitTests\ScheduleManagementSystemFinalRevAv\ScheduleManagementSystemRev7\ScheduleManagementSystem.Dal\bin\Debug\ScheduleManagementSystem.Dal.pdb
+C:\Users\justinw\Downloads\FinalCode\ScheduleManagementSystemFinalRevAvWithUnitTests\ScheduleManagementSystemFinalRevAv\ScheduleManagementSystemRev7\ScheduleManagementSystem.Dal\bin\Debug\ScheduleManagementSystem.Contract.dll
+C:\Users\justinw\Downloads\FinalCode\ScheduleManagementSystemFinalRevAvWithUnitTests\ScheduleManagementSystemFinalRevAv\ScheduleManagementSystemRev7\ScheduleManagementSystem.Dal\bin\Debug\ScheduleManagementSystem.Contract.pdb
+C:\Users\justinw\Downloads\FinalCode\ScheduleManagementSystemFinalRevAvWithUnitTests\ScheduleManagementSystemFinalRevAv\ScheduleManagementSystemRev7\ScheduleManagementSystem.Dal\obj\Debug\ScheduleManagementSystem.Dal.csprojResolveAssemblyReference.cache
+C:\Users\justinw\Downloads\FinalCode\ScheduleManagementSystemFinalRevAvWithUnitTests\ScheduleManagementSystemFinalRevAv\ScheduleManagementSystemRev7\ScheduleManagementSystem.Dal\obj\Debug\ScheduleManagementSystem.Dal.dll
+C:\Users\justinw\Downloads\FinalCode\ScheduleManagementSystemFinalRevAvWithUnitTests\ScheduleManagementSystemFinalRevAv\ScheduleManagementSystemRev7\ScheduleManagementSystem.Dal\obj\Debug\ScheduleManagementSystem.Dal.pdb

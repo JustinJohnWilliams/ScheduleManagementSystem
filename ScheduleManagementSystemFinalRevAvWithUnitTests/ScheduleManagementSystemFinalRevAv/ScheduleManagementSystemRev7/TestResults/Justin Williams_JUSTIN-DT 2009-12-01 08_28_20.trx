@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="8c5ab1cc-ff25-4773-a400-830db119e21d" name="Justin Williams@JUSTIN-DT 2009-12-01 08:28:20" runUser="JUSTIN-DT\Justin Williams" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2006">
+  <TestRunConfiguration name="Local Test Run" id="34513c49-8a33-47eb-8c0f-842752c8c8de">
+    <Description>This is a default test run configuration for a local test run.</Description>
+    <Deployment runDeploymentRoot="C:\Documents and Settings\Justin Williams\Desktop\School\UTD\7Fall 09\Requirements\ScheduleManagementSystemFinalRevAv\ScheduleManagementSystemRev7\TestResults\Justin Williams_JUSTIN-DT 2009-12-01 08_28_20">
+      <DeploymentItem filename="C:\Documents and Settings\Justin Williams\Desktop\School\UTD\7Fall 09\Requirements\ScheduleManagementSystemFinalRevAv\ScheduleManagementSystemRev7\ScheduleManagementSystem.Contract\bin\Debug\ScheduleManagementSystem.Contract.dll" />
+      <DeploymentItem filename="C:\Documents and Settings\Justin Williams\Desktop\School\UTD\7Fall 09\Requirements\ScheduleManagementSystemFinalRevAv\ScheduleManagementSystemRev7\ScheduleManagementSystem.Dal\bin\Debug\ScheduleManagementSystem.Dal.dll" />
+    </Deployment>
+    <TestTypeSpecific />
+  </TestRunConfiguration>
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <Times creation="2009-12-01T08:28:20.7968750-06:00" queuing="2009-12-01T08:28:35.1250000-06:00" start="2009-12-01T08:28:36.6718750-06:00" finish="2009-12-01T08:28:47.2031250-06:00" />
+  <TestDefinitions>
+    <UnitTest name="should_return_correct_location_by_location_id" storage="c:\documents and settings\justin williams\desktop\school\utd\7fall 09\requirements\schedulemanagementsystemfinalrevav\schedulemanagementsystemrev7\schedulemanagementsystem.test\bin\debug\schedulemanagementsystem.test.dll" id="93278581-8af3-e025-0ad7-4af3ac35b835">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="a7ef010c-8b7b-457b-a6c7-a3d63b7d0003" />
+      <TestMethod codeBase="C:\Documents and Settings\Justin Williams\Desktop\School\UTD\7Fall 09\Requirements\ScheduleManagementSystemFinalRevAv\ScheduleManagementSystemRev7\ScheduleManagementSystem.Test\bin\Debug\ScheduleManagementSystem.Test.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ScheduleManagementSystem.Test.Dal.when_retrieving_locations, ScheduleManagementSystem.Test" name="should_return_correct_location_by_location_id" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="93278581-8af3-e025-0ad7-4af3ac35b835" executionId="a7ef010c-8b7b-457b-a6c7-a3d63b7d0003" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="a7ef010c-8b7b-457b-a6c7-a3d63b7d0003" testId="93278581-8af3-e025-0ad7-4af3ac35b835" testName="should_return_correct_location_by_location_id" computerName="JUSTIN-DT" duration="00:00:04.6028958" startTime="2009-12-01T08:28:37.4218750-06:00" endTime="2009-12-01T08:28:46.2187500-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Initialization method ScheduleManagementSystem.Test.Dal.when_retrieving_locations.TestInitialize threw exception. System.Exception:  System.Exception: Can't perform Create, Update or Delete operations on 'Table(Location_MasterDto)' because it has no primary key. ---&gt;  System.InvalidOperationException: Can't perform Create, Update or Delete operations on 'Table(Location_MasterDto)' because it has no primary key..</Message>
+          <StackTrace>    at System.Data.Linq.Table`1.CheckReadOnly()
+   at System.Data.Linq.Table`1.DeleteAllOnSubmit[TSubEntity](IEnumerable`1 entities)
+   at ScheduleManagementSystem.Test.Dal.when_retrieving_locations.Cleanup() in C:\Documents and Settings\Justin Williams\Desktop\School\UTD\7Fall 09\Requirements\ScheduleManagementSystemFinalRevAv\ScheduleManagementSystemRev7\ScheduleManagementSystem.Test\Dal\when_retrieving_locations.cs:line 80
+   at ScheduleManagementSystem.Test.TestContextSpecification.TestInitialize() in C:\Documents and Settings\Justin Williams\Desktop\School\UTD\7Fall 09\Requirements\ScheduleManagementSystemFinalRevAv\ScheduleManagementSystemRev7\ScheduleManagementSystem.Test\TestContextSpecification.cs:line 36
+ --- End of inner exception stack trace ---
+    at ScheduleManagementSystem.Test.TestContextSpecification.TestInitialize() in C:\Documents and Settings\Justin Williams\Desktop\School\UTD\7Fall 09\Requirements\ScheduleManagementSystemFinalRevAv\ScheduleManagementSystemRev7\ScheduleManagementSystem.Test\TestContextSpecification.cs:line 41
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>
